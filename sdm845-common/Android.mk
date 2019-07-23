@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter oneplus6 oneplus6t,$(TARGET_DEVICE)),)
+ifneq ($(filter fajita,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libantradio

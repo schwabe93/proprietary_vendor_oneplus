@@ -181,7 +181,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sdm845-common/proprietary/lib64/vendor.qti.hardware.iop@2.0.so:system/lib64/vendor.qti.hardware.iop@2.0.so \
     vendor/oneplus/sdm845-common/proprietary/lib64/vendor.qti.hardware.perf@1.0.so:system/lib64/vendor.qti.hardware.perf@1.0.so \
     vendor/oneplus/sdm845-common/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:system/lib64/vendor.qti.imsrtpservice@1.0.so \
-    vendor/oneplus/sdm845-common/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk
 
 PRODUCT_PACKAGES += \
     libantradio \
